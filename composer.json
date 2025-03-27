@@ -1,7 +1,6 @@
 {
     "name": "axcel/halo",
     "description": "AxcelORM is engineered for rapid development, minimizing boilerplate code while still offering full control over your database queries. With support for relationships, migrations, and query building, AxcelORM gives you the flexibility to handle both simple and complex database operations with ease. Whether you're building a small project or a large-scale application, AxcelORM helps you focus on what matters most-your code.",
-    "version": "1.0.0",
     "type": "package",
     "require": {
         "php": ">=8.0.0"
