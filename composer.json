@@ -1,0 +1,30 @@
+{
+    "name": "axcel/halo",
+    "description": "AxcelORM is engineered for rapid development, minimizing boilerplate code while still offering full control over your database queries. With support for relationships, migrations, and query building, AxcelORM gives you the flexibility to handle both simple and complex database operations with ease. Whether you're building a small project or a large-scale application, AxcelORM helps you focus on what matters most-your code.",
+    "version": "1.0.0",
+    "type": "package",
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "config": {
+        "platform": {
+            "php": "8.0.0"
+        }
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Axcel\\Halo\\": "src/"
+        },
+        "files": [
+            "helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Joshua Pacho",
+            "email": "102531192+joshdevkit@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
