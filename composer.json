@@ -17,7 +17,7 @@
             "Axcel\\Halo\\": "src/"
         },
         "files": [
-            "helpers.php"
+            "axcel/halo/src/helpers.php"
         ]
     },
     "authors": [
