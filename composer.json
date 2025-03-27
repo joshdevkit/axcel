@@ -3,7 +3,10 @@
     "description": "AxcelORM is engineered for rapid development, minimizing boilerplate code while still offering full control over your database queries. With support for relationships, migrations, and query building, AxcelORM gives you the flexibility to handle both simple and complex database operations with ease. Whether you're building a small project or a large-scale application, AxcelORM helps you focus on what matters most-your code.",
     "type": "package",
     "require": {
-        "php": ">=8.0.0"
+        "php": ">=8.0.0",
+        "symfony/security-csrf": "5.4.x-dev",
+        "symfony/http-foundation": "5.4.x-dev",
+        "filp/whoops": "^2.18"
     },
     "config": {
         "platform": {
